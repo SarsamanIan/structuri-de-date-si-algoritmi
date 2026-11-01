@@ -18,3 +18,5 @@ The solution uses Binary Search to find the position where the target should be 
 
 - **Time Complexity:** O(log n)
 - **Space Complexity:** O(1)
+
+https://leetcode.com/problems/search-insert-position/description/
