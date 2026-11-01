@@ -72,3 +72,5 @@ Storage:
 - Tree nodes: O(n)
 
 An ordinary Binary Search Tree does not guarantee balance. Sorted input can produce a one-sided chain.
+
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
